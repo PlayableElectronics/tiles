@@ -1,2 +1,3 @@
 # tiles
 Modular controller platform for midi, osc and more...
+![System](images/system.jpg)
