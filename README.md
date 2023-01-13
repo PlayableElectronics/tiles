@@ -1,6 +1,8 @@
 # PE - Tiles
 Modular controller platform for midi, osc and more...
+
 Connecting accessible components, well known standards (Grove, OSC, Midi) into easy and working systems tailored to your personal needs.
+
 ![System](images/system.jpg)
 ![Footswitch](images/footswitch.jpg)
 ![Process6](images/process6.jpg)
