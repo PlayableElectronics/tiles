@@ -1,3 +1,3 @@
-# tiles
+# PE - Tiles
 Modular controller platform for midi, osc and more...
 ![System](images/system.jpg)
