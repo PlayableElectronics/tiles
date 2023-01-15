@@ -1,0 +1,1582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\Circuit2PCB\Reverbrick Music 2x8 Keyboard $100\KiCAD PCB Source Files\2x8 Music Keyboard PCB.kicad_sch</source>
+    <date>14/01/2023 10:38:14 pm</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>2x8 Keyboard PCB</title>
+        <company>ahsanmehmoodawan1997@gmail.com</company>
+        <rev>1</rev>
+        <date>2023-01-14</date>
+        <source>2x8 Music Keyboard PCB.kicad_sch</source>
+        <comment number="1" value=" Engr. Ahsan Mehmood Awan"/>
+        <comment number="2" value="WhatsApp +923491540717"/>
+        <comment number="3" value="Profile : https://www.fiverr.com/pcbdesign_engr"/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>22pF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d22278d9-4a0b-4d58-b29f-35a999ea680a</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>346bc210-f430-47c0-b8af-a0bc72ed9e78</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fa0502c-547d-48c0-b9a8-b2e5ecc5a7cd</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4935c56-2090-421b-9406-b0d7397d68c4</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25a8daa8-3bb1-4455-85d8-8bb58d948afe</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10uF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d143c4d-fe5e-4a20-b7da-47474916aaf0</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>22pF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95d832e6-138e-4ffb-9796-9f29d6d82b0b</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6038bd12-262b-4f73-be0d-40a2a29e9b8d</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1uF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C28323</field>
+      </fields>
+      <libsource lib="Device" part="C" description=""/>
+      <property name="LCSC Part #" value="C28323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c7fbdaf-a7bf-41aa-a12e-66fb8db90974</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>534e5426-c067-492b-b777-12f76518dc14</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0f6575d-1473-4f79-b160-d6dae4329653</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6329df32-3420-42c5-88f5-0c65d5c96f79</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08e75237-87f0-40b4-b508-e2b892c3a6ed</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b88e6f23-0deb-49cf-b831-b10c321dd573</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3df38c07-a54b-45d1-aeea-3740a89074bf</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17b3ca13-2f9b-41a0-890e-de5e40241838</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ac26634-f710-4fc7-a5c4-6403e62184d0</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb794832-8f9d-44be-83c3-7e2afc03b1a4</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4df5491d-583a-4b45-b3a6-dfd30cd18c59</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a016cfcd-9346-4654-a83f-535c6443a21b</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95349581-564d-4044-85f6-56e4c73116bd</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d90c8176-49dc-4644-bfec-9a689fec0996</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71d2ea15-c537-40d7-8dd9-88dcc529129f</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5abc1ce3-3fe8-4877-8ec6-d696b09c80d8</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>100nF</value>
+      <footprint>Ahsan Libs:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b02eae6-fc10-48a7-980e-657c6898ba3f</tstamps>
+    </comp>
+    <comp ref="D_1">
+      <value>1N4148W</value>
+      <footprint>Ahsan Libs:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d984d1b-8097-407f-92f3-3ef68867dcfa</tstamps>
+    </comp>
+    <comp ref="D_2">
+      <value>1N4148W</value>
+      <footprint>Ahsan Libs:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04f5865e-f449-4408-a0c8-771cccfcb129</tstamps>
+    </comp>
+    <comp ref="D_3">
+      <value>1N4148W</value>
+      <footprint>Ahsan Libs:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a9f2d82-f64d-4264-8bec-c182528fc4de</tstamps>
+    </comp>
+    <comp ref="D_4">
+      <value>1N4148W</value>
+      <footprint>Ahsan Libs:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cd4f60c-787d-40f2-b787-f91004f6ae98</tstamps>
+    </comp>
+    <comp ref="D_5">
+      <value>1N4148W</value>
+      <footprint>Ahsan Libs:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>471d18ec-8557-48c6-baa2-5beb18e70d69</tstamps>
+    </comp>
+    <comp ref="D_6">
+      <value>1N4148W</value>
+      <footprint>Ahsan Libs:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13e2e62b-8485-472a-a928-a7e82f4a0d21</tstamps>
+    </comp>
+    <comp ref="D_7">
+      <value>1N4148W</value>
+      <footprint>Ahsan Libs:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>678d8d7d-8320-4a24-a1c6-bc58a7617d1c</tstamps>
+    </comp>
+    <comp ref="D_8">
+      <value>1N4148W</value>
+      <footprint>Ahsan Libs:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb05f69d-9c79-487a-862d-f452636f8934</tstamps>
+    </comp>
+    <comp ref="D_9">
+      <value>1N4148W</value>
+      <footprint>Ahsan Libs:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>abe07c9a-17c3-43b5-b7a6-ae867ac27ea7</tstamps>
+    </comp>
+    <comp ref="D_10">
+      <value>1N4148W</value>
+      <footprint>Ahsan Libs:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>182b2d54-931d-49d6-9f39-60a752623e36</tstamps>
+    </comp>
+    <comp ref="D_11">
+      <value>1N4148W</value>
+      <footprint>Ahsan Libs:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57c0c267-8bf9-4cc7-b734-d71a239ac313</tstamps>
+    </comp>
+    <comp ref="D_12">
+      <value>1N4148W</value>
+      <footprint>Ahsan Libs:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c0106c6-2f51-45f1-a6ca-47ed17bb4e13</tstamps>
+    </comp>
+    <comp ref="D_13">
+      <value>1N4148W</value>
+      <footprint>Ahsan Libs:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>092d8957-898a-448d-b557-12e0d71d6c48</tstamps>
+    </comp>
+    <comp ref="D_14">
+      <value>1N4148W</value>
+      <footprint>Ahsan Libs:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7e12ac3-cba8-426b-8e0f-f86f151cff61</tstamps>
+    </comp>
+    <comp ref="D_15">
+      <value>1N4148W</value>
+      <footprint>Ahsan Libs:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aabd0ef6-9a2a-4454-a383-5081d0dc4e8d</tstamps>
+    </comp>
+    <comp ref="D_16">
+      <value>1N4148W</value>
+      <footprint>Ahsan Libs:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b019974d-8e33-4355-8948-a77a5670bbe4</tstamps>
+    </comp>
+    <comp ref="ESD1">
+      <value>PRTR5V0U2X</value>
+      <footprint>Ahsan Libs:PRTR5V0U2X</footprint>
+      <fields>
+        <field name="LCSC">C2827688</field>
+      </fields>
+      <libsource lib="Power_Protection" part="PRTR5V0U2X" description=""/>
+      <property name="LCSC" value="C2827688"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed85c6c1-a840-4f06-afb8-e77faf6ee7eb</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>SM04B-SRSS-TB(LF)(SN)</value>
+      <footprint>Ahsan Libs:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0191dad7-4462-4d61-b061-bd683455ab37</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Groove Connector</value>
+      <footprint>Connector_JST:JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6ea70d0-183a-4aad-83a3-6197a4ed6902</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Groove Connector</value>
+      <footprint>Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e66bfa4a-2305-4563-b646-7514823d05b7</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Groove Connector</value>
+      <footprint>Connector_JST:JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d2e3633-a887-41ef-b12f-86fd5cbe1fec</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Groove Connector</value>
+      <footprint>Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3908c1a2-76e3-41f1-9841-d701eed98839</tstamps>
+    </comp>
+    <comp ref="K_1">
+      <value>KEYSW-1u</value>
+      <footprint>Ahsan Libs:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6521bef-4109-48f7-8b88-4121b0468927</tstamps>
+    </comp>
+    <comp ref="K_2">
+      <value>KEYSW-1u</value>
+      <footprint>Ahsan Libs:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29256b3d-9450-4c0a-a4d4-911f04b9c140</tstamps>
+    </comp>
+    <comp ref="K_3">
+      <value>KEYSW-1u</value>
+      <footprint>Ahsan Libs:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db83d0af-e085-4050-8496-fa2ebdecbd62</tstamps>
+    </comp>
+    <comp ref="K_4">
+      <value>KEYSW-1u</value>
+      <footprint>Ahsan Libs:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>632add99-927d-4bb4-9cb8-24caea735765</tstamps>
+    </comp>
+    <comp ref="K_5">
+      <value>KEYSW-1u</value>
+      <footprint>Ahsan Libs:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8355983-abf9-48d7-a495-75d2ed021e0b</tstamps>
+    </comp>
+    <comp ref="K_6">
+      <value>KEYSW-1u</value>
+      <footprint>Ahsan Libs:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3e1a657-37bc-4fed-8641-092dfe890c8a</tstamps>
+    </comp>
+    <comp ref="K_7">
+      <value>KEYSW-1u</value>
+      <footprint>Ahsan Libs:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a656757-0d56-41f2-a2d7-799d5b47a9c1</tstamps>
+    </comp>
+    <comp ref="K_8">
+      <value>KEYSW-1u</value>
+      <footprint>Ahsan Libs:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>306a30a6-5487-4e03-8fb6-0b4b4b2f11f9</tstamps>
+    </comp>
+    <comp ref="K_9">
+      <value>KEYSW-1u</value>
+      <footprint>Ahsan Libs:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f66b314-0f62-4fb6-8c3c-f9c6a75cd3ec</tstamps>
+    </comp>
+    <comp ref="K_10">
+      <value>KEYSW-1u</value>
+      <footprint>Ahsan Libs:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4c6fdbb-fdc7-4ad4-a516-240d84cdc120</tstamps>
+    </comp>
+    <comp ref="K_11">
+      <value>KEYSW-1u</value>
+      <footprint>Ahsan Libs:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19c56563-5fe3-442a-885b-418dbc2421eb</tstamps>
+    </comp>
+    <comp ref="K_12">
+      <value>KEYSW-1u</value>
+      <footprint>Ahsan Libs:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7c2771e-e544-444b-8f84-d36088587a17</tstamps>
+    </comp>
+    <comp ref="K_13">
+      <value>KEYSW-1u</value>
+      <footprint>Ahsan Libs:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d9e838a-5d02-4c99-8003-ef3a901b4957</tstamps>
+    </comp>
+    <comp ref="K_14">
+      <value>KEYSW-1u</value>
+      <footprint>Ahsan Libs:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>265a3fee-74d6-4c1d-a045-fbe1b7966065</tstamps>
+    </comp>
+    <comp ref="K_15">
+      <value>KEYSW-1u</value>
+      <footprint>Ahsan Libs:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31b25c51-1b5d-48fc-bad0-243457892bd9</tstamps>
+    </comp>
+    <comp ref="K_16">
+      <value>KEYSW-1u</value>
+      <footprint>Ahsan Libs:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79061caa-5eea-418f-905f-82256bb2b6be</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Ahsan Libs:CRONE-SK6812MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="Cherry-Mx" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fe83bc5-762a-4314-9ab7-19fabfda3ae6</tstamps>
+    </comp>
+    <comp ref="LED2">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Ahsan Libs:CRONE-SK6812MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="Cherry-Mx" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0df868c6-333d-4e83-abe3-73d3d51677eb</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Ahsan Libs:CRONE-SK6812MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="Cherry-Mx" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b35eac27-6afe-4f1a-b399-870b79db9a39</tstamps>
+    </comp>
+    <comp ref="LED4">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Ahsan Libs:CRONE-SK6812MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="Cherry-Mx" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a9398c5-796d-4af7-a275-c877a2a92a16</tstamps>
+    </comp>
+    <comp ref="LED5">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Ahsan Libs:CRONE-SK6812MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="Cherry-Mx" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05668e53-fc22-48a2-ad04-45dcbe1f722d</tstamps>
+    </comp>
+    <comp ref="LED6">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Ahsan Libs:CRONE-SK6812MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="Cherry-Mx" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58ff9eb3-2e5c-43da-adb2-4f7515d7c6f8</tstamps>
+    </comp>
+    <comp ref="LED7">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Ahsan Libs:CRONE-SK6812MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="Cherry-Mx" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed9f4131-160a-4ad0-9fe5-eedf5c4d9d3d</tstamps>
+    </comp>
+    <comp ref="LED8">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Ahsan Libs:CRONE-SK6812MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="Cherry-Mx" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c864987-544a-4f3f-90b6-4411d1826fc8</tstamps>
+    </comp>
+    <comp ref="LED9">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Ahsan Libs:CRONE-SK6812MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="Cherry-Mx" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc46934e-2ad0-40b4-af47-1d8ce710e4d2</tstamps>
+    </comp>
+    <comp ref="LED10">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Ahsan Libs:CRONE-SK6812MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="Cherry-Mx" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>143b9ef5-d80c-445e-adfc-f50f5e150b25</tstamps>
+    </comp>
+    <comp ref="LED11">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Ahsan Libs:CRONE-SK6812MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="Cherry-Mx" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be4f34f6-a27a-48d9-96b6-7991a2087fe9</tstamps>
+    </comp>
+    <comp ref="LED12">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Ahsan Libs:CRONE-SK6812MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="Cherry-Mx" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4471d2b-bdc6-4369-8dc2-107d1375fc43</tstamps>
+    </comp>
+    <comp ref="LED13">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Ahsan Libs:CRONE-SK6812MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="Cherry-Mx" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8b2cbc1-f4bc-4127-bef8-7aa4b0e07169</tstamps>
+    </comp>
+    <comp ref="LED14">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Ahsan Libs:CRONE-SK6812MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="Cherry-Mx" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b63fb10-a787-466f-a209-fcb4f6380a59</tstamps>
+    </comp>
+    <comp ref="LED15">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Ahsan Libs:CRONE-SK6812MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="Cherry-Mx" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65282718-cab5-4320-9212-fa8e756cdc6f</tstamps>
+    </comp>
+    <comp ref="LED16">
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Ahsan Libs:CRONE-SK6812MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="Cherry-Mx" part="YS-SK6812MINI-E" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7751bd00-babc-4dcc-96b7-4ccece29b8b1</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>LED</value>
+      <footprint>Ahsan Libs:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C473820</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C473820"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7432b28-2668-405a-84d6-8fdbb194fe23</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Ahsan Libs:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R" description=""/>
+      <property name="LCSC Part #" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99447a94-85c6-412d-a1a8-cf389cd502c4</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>470 ohm</value>
+      <footprint>Ahsan Libs:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b8d86b2-c4ec-4b86-85d8-f39652afc1a6</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>22 ohm</value>
+      <footprint>Ahsan Libs:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C17561</field>
+      </fields>
+      <libsource lib="Device" part="R" description=""/>
+      <property name="LCSC Part #" value="C17561"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fbfc5f0-216f-4ca5-bf3f-bff3c01c0edb</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>22 ohm</value>
+      <footprint>Ahsan Libs:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C17561</field>
+      </fields>
+      <libsource lib="Device" part="R" description=""/>
+      <property name="LCSC Part #" value="C17561"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5df27664-33cb-4d5f-a2af-3f1820f5a858</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>470 ohm</value>
+      <footprint>Ahsan Libs:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4529861a-9ebd-4783-aa10-48cc4d3400ea</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Ahsan Libs:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R" description=""/>
+      <property name="LCSC Part #" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5b25bc0-d512-4833-a502-6e7e5c6be29b</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_SPST</value>
+      <footprint>Ahsan Libs:K2-1187SQ-A4SW-06</footprint>
+      <fields>
+        <field name="Manufacturer">Korean Hroparts</field>
+        <field name="Manufacturer Part Number">K2-1187SQ-A4SW-06</field>
+        <field name="Package">5.0x5.0mm</field>
+        <field name="Specification">Surface mount tactile push button</field>
+        <field name="Vendor Part Number">LCSC C92584</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Manufacturer" value="Korean Hroparts"/>
+      <property name="Manufacturer Part Number" value="K2-1187SQ-A4SW-06"/>
+      <property name="Vendor Part Number" value="LCSC C92584"/>
+      <property name="Package" value="5.0x5.0mm"/>
+      <property name="Specification" value="Surface mount tactile push button"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da3a1ff3-36a6-4da8-8508-df6ecf960aa3</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ATMEGA32U4-MUR</value>
+      <footprint>Ahsan Libs:ATMEGA32U4-MURr</footprint>
+      <fields>
+        <field name="LCSC Part #">C45874</field>
+      </fields>
+      <libsource lib="ATMEGA32U4-MUR" part="ATMEGA32U4-MUR" description=""/>
+      <property name="LCSC Part #" value="C45874"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9149b9c-0754-431c-9aad-15b8df362267</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>16MHz</value>
+      <footprint>Ahsan Libs:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
+      <fields>
+        <field name="LCSC Part #">C13738</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24" description=""/>
+      <property name="LCSC Part #" value="C13738"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="2x8 Music Keyboard PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d69eb66c-5f09-40ff-811b-3545fcb250c0</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="ATMEGA32U4-MUR" part="ATMEGA32U4-MUR">
+      <footprints>
+        <fp>44PW_ATM</fp>
+        <fp>44PW_ATM-M</fp>
+        <fp>44PW_ATM-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATMEGA32U4-MUR</field>
+        <field name="Footprint">44PW_ATM</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PE6" type="bidirectional"/>
+        <pin num="2" name="UVCC" type="power_in"/>
+        <pin num="3" name="D-" type="unspecified"/>
+        <pin num="4" name="D+" type="unspecified"/>
+        <pin num="5" name="UGND" type="power_in"/>
+        <pin num="6" name="UCAP" type="output"/>
+        <pin num="7" name="VBUS" type="input"/>
+        <pin num="8" name="PB0" type="bidirectional"/>
+        <pin num="9" name="PB1" type="bidirectional"/>
+        <pin num="10" name="PB2" type="bidirectional"/>
+        <pin num="11" name="PB3" type="bidirectional"/>
+        <pin num="12" name="PB7" type="bidirectional"/>
+        <pin num="13" name="*RESET" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="XTAL2" type="output"/>
+        <pin num="17" name="XTAL1" type="input"/>
+        <pin num="18" name="PD0" type="bidirectional"/>
+        <pin num="19" name="PD1" type="bidirectional"/>
+        <pin num="20" name="PD2" type="bidirectional"/>
+        <pin num="21" name="PD3" type="bidirectional"/>
+        <pin num="22" name="PD5" type="bidirectional"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="AVCC" type="power_in"/>
+        <pin num="25" name="PD4" type="bidirectional"/>
+        <pin num="26" name="PD6" type="bidirectional"/>
+        <pin num="27" name="PD7" type="bidirectional"/>
+        <pin num="28" name="PB4" type="bidirectional"/>
+        <pin num="29" name="PB5" type="bidirectional"/>
+        <pin num="30" name="PB6" type="bidirectional"/>
+        <pin num="31" name="PC6" type="bidirectional"/>
+        <pin num="32" name="PC7" type="bidirectional"/>
+        <pin num="33" name="PE2" type="bidirectional"/>
+        <pin num="34" name="VCC" type="power_in"/>
+        <pin num="35" name="GND" type="power_in"/>
+        <pin num="36" name="PF7" type="bidirectional"/>
+        <pin num="37" name="PF6" type="bidirectional"/>
+        <pin num="38" name="PF5" type="bidirectional"/>
+        <pin num="39" name="PF4" type="bidirectional"/>
+        <pin num="40" name="PF1" type="bidirectional"/>
+        <pin num="41" name="PF0" type="bidirectional"/>
+        <pin num="42" name="AREF" type="input"/>
+        <pin num="43" name="GND" type="power_in"/>
+        <pin num="44" name="AVCC" type="power_in"/>
+        <pin num="45" name="EPAD" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Cherry-Mx" part="YS-SK6812MINI-E">
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">YS-SK6812MINI-E</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">Device_C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24">
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Device_Crystal_GND24</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">Device_R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MX_Alps_Hybrid" part="MX-NoLED">
+      <fields>
+        <field name="Reference">MX</field>
+        <field name="Value">MX-NoLED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COL" type="passive"/>
+        <pin num="2" name="ROW" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Power_Protection" part="PRTR5V0U2X">
+      <footprints>
+        <fp>SOT?143*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">PRTR5V0U2X</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-143</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="I/O1" type="passive"/>
+        <pin num="3" name="I/O2" type="passive"/>
+        <pin num="4" name="VCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPST">
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPST</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="ATMEGA32U4-MUR">
+      <uri>C:/Program Files/KiCad/6.0/share/kicad/Library Atmega/KiCAD/2022-01-02_13-33-02/ATMEGA32U4-MUR.lib</uri>
+    </library>
+    <library logical="Cherry-Mx">
+      <uri>D:/Circuit2PCB/Railexu 75% Keyboard $200 hotswap/Delivery1/KiCAD Source Files/library/kbd/kicad-symbols/Cherry-Mx.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="MX_Alps_Hybrid">
+      <uri>D:/Circuit2PCB/Railexu 75% Keyboard $200 hotswap/Delivery1/KiCAD Source Files/library/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Power_Protection">
+      <uri>D:/Circuit2PCB/Railexu 75% Keyboard $200 hotswap/Delivery1/KiCAD Source Files/library/Power_Protection.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="DN">
+      <node ref="ESD1" pin="3" pinfunction="I/O2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="2" name="DP">
+      <node ref="ESD1" pin="2" pinfunction="I/O1" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="3" name="D_N">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="D-" pintype="unspecified"/>
+    </net>
+    <net code="4" name="D_P">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="D+" pintype="unspecified"/>
+    </net>
+    <net code="5" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="ESD1" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="LED1" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED10" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED11" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED12" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED13" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED14" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED15" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED16" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED2" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED3" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED4" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED5" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED6" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED7" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED8" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED9" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="P1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="23" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="35" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="43" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="45" pinfunction="EPAD" pintype="unspecified"/>
+      <node ref="U1" pin="5" pinfunction="UGND" pintype="power_in"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="6" name="MISO">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="MOSI">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="Net-(C8-Pad2)">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="42" pinfunction="AREF" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="UCAP" pintype="output"/>
+    </net>
+    <net code="10" name="Net-(D_1-Pad2)">
+      <node ref="D_1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_1" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D_2-Pad2)">
+      <node ref="D_2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_2" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D_3-Pad2)">
+      <node ref="D_3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_3" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D_4-Pad2)">
+      <node ref="D_4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_4" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D_5-Pad2)">
+      <node ref="D_5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_5" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D_6-Pad2)">
+      <node ref="D_6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_6" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D_7-Pad2)">
+      <node ref="D_7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_7" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D_8-Pad2)">
+      <node ref="D_8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_8" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D_9-Pad2)">
+      <node ref="D_9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_9" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D_10-Pad2)">
+      <node ref="D_10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_10" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D_11-Pad2)">
+      <node ref="D_11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_11" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D_12-Pad2)">
+      <node ref="D_12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_12" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D_13-Pad2)">
+      <node ref="D_13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_13" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D_14-Pad2)">
+      <node ref="D_14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_14" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D_15-Pad2)">
+      <node ref="D_15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_15" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D_16-Pad2)">
+      <node ref="D_16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_16" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(LED1-Pad2)">
+      <node ref="LED1" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED2" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(LED2-Pad2)">
+      <node ref="LED2" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED3" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(LED3-Pad2)">
+      <node ref="LED3" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED4" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(LED4-Pad2)">
+      <node ref="LED4" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED5" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(LED5-Pad2)">
+      <node ref="LED5" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED6" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="31" name="Net-(LED6-Pad2)">
+      <node ref="LED6" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED7" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="32" name="Net-(LED7-Pad2)">
+      <node ref="LED7" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED8" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(LED8-Pad2)">
+      <node ref="LED8" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED9" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(LED10-Pad2)">
+      <node ref="LED10" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED11" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="35" name="Net-(LED10-Pad4)">
+      <node ref="LED10" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED9" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="36" name="Net-(LED11-Pad2)">
+      <node ref="LED11" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED12" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="37" name="Net-(LED12-Pad2)">
+      <node ref="LED12" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED13" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(LED13-Pad2)">
+      <node ref="LED13" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED14" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(LED14-Pad2)">
+      <node ref="LED14" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED15" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="40" name="Net-(LED15-Pad2)">
+      <node ref="LED15" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED16" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="41" name="Net-(P1-Pad2)">
+      <node ref="P1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="41" pinfunction="PF0" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="33" pinfunction="PE2" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="RESET">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="*RESET" pintype="input"/>
+    </net>
+    <net code="45" name="RGB_LEDs">
+      <node ref="LED1" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="46" name="SCL">
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="PD0" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="SCLK">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="SDA">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="PD1" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="VCC">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="ESD1" pin="4" pinfunction="VCC" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="LED1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED10" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED11" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED12" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED13" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED14" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED15" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED16" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED3" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED4" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED5" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED6" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED7" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED8" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED9" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U1" pin="2" pinfunction="UVCC" pintype="power_in"/>
+      <node ref="U1" pin="24" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U1" pin="34" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U1" pin="44" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U1" pin="7" pinfunction="VBUS" pintype="input"/>
+    </net>
+    <net code="50" name="XTAL1">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="XTAL1" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="51" name="XTAL2">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="XTAL2" pintype="output"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="52" name="col0">
+      <node ref="K_1" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_9" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="40" pinfunction="PF1" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="col1">
+      <node ref="K_10" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_2" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="39" pinfunction="PF4" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="col2">
+      <node ref="K_11" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_3" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="38" pinfunction="PF5" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="col3">
+      <node ref="K_12" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_4" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="37" pinfunction="PF6" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="col4">
+      <node ref="K_13" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_5" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="PC6" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="col5">
+      <node ref="K_14" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_6" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="col6">
+      <node ref="K_15" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_7" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="col7">
+      <node ref="K_16" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_8" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="row0">
+      <node ref="D_1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="row1">
+      <node ref="D_10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="32" pinfunction="PC7" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="unconnected-(LED16-Pad2)">
+      <node ref="LED16" pin="2" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(U1-Pad1)">
+      <node ref="U1" pin="1" pinfunction="PE6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(U1-Pad8)">
+      <node ref="U1" pin="8" pinfunction="PB0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(U1-Pad20)">
+      <node ref="U1" pin="20" pinfunction="PD2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(U1-Pad21)">
+      <node ref="U1" pin="21" pinfunction="PD3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(U1-Pad22)">
+      <node ref="U1" pin="22" pinfunction="PD5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(U1-Pad25)">
+      <node ref="U1" pin="25" pinfunction="PD4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(U1-Pad26)">
+      <node ref="U1" pin="26" pinfunction="PD6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(U1-Pad27)">
+      <node ref="U1" pin="27" pinfunction="PD7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(U1-Pad36)">
+      <node ref="U1" pin="36" pinfunction="PF7" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
